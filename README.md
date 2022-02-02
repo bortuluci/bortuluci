@@ -1,3 +1,4 @@
+- 📚 Productive, focused and self-learner.
 - 💼 I’m currently working on sales
 - 🌱 Currently learning Javascript, HTML and CSS
 - 💞️ I looking to collaborate on Javascript
