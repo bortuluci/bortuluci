@@ -3,7 +3,7 @@
 
 - 📚 Productive, focused and self-learner.
 - 💼 I’m currently working on sales
-- 🌱 Currently learning Javascript, HTML and CSS
+- 🌱 Currently learning Python.
 - 📫 How to reach me khauanbs@gmail.com
 - 🏎 Fun facts: i'm F1 fan, online pilot and the master of yellow flags.
 <!--
